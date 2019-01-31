@@ -1,6 +1,6 @@
 # parth
 
-    go get -u github.com/codemodus/parth
+    go get -u github.com/h2non/parth
 
 Package parth provides path parsing for segment unmarshaling and slicing. In
 other words, parth provides simple and flexible access to (URL) path parameters.
